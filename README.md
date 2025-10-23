@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+ I am Final-year AI and Data Science Engineering student with hands-on experience
+ in machine learning, deep learning, and full-stack web development.
+ Experienced in building intelligent systems that bridge data-driven insights
+ with real-world applications. Adept at quickly learning emerging technologies
+ and contributing to collaborative technical projects.
 <!--
 **Dhivyakirthikannan/Dhivyakirthikannan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
